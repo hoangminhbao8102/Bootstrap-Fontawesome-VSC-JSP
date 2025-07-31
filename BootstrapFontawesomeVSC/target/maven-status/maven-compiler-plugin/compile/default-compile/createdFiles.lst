@@ -1,0 +1,5 @@
+com\mycompany\bootstrapfontawesomevsc\JakartaRestConfiguration.class
+com\mycompany\bootstrapfontawesomevsc\controller\AboutServlet.class
+com\mycompany\bootstrapfontawesomevsc\resources\JakartaEE11Resource.class
+com\mycompany\bootstrapfontawesomevsc\controller\HomeServlet.class
+com\mycompany\bootstrapfontawesomevsc\controller\ContactServlet.class
